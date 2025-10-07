@@ -5,3 +5,4 @@ print(f"Nome: {nome}Idade: {idade}")
 ###000
 ###001
 ###003
+
